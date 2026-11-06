@@ -1,0 +1,13 @@
+{
+  "name": "ossify",
+  "owner": { "name": "nathankim0", "url": "https://github.com/nathankim0" },
+  "metadata": { "description": "ossify: open-source conventions for any repo", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "ossify",
+      "source": "./",
+      "description": "AGENTS.md + CLAUDE.md symlink, release and tag routine, English and Korean READMEs.",
+      "category": "development"
+    }
+  ]
+}

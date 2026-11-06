@@ -1,0 +1,10 @@
+{
+  "name": "ossify",
+  "version": "1.0.0",
+  "description": "Set up open-source conventions in any repo: AGENTS.md with a CLAUDE.md symlink, release routine with tags and GitHub releases, and English and Korean READMEs.",
+  "author": { "name": "nathankim0", "url": "https://github.com/nathankim0" },
+  "homepage": "https://github.com/nathankim0/ossify",
+  "repository": "https://github.com/nathankim0/ossify",
+  "license": "MIT",
+  "keywords": ["open-source", "agents-md", "claude-md", "release", "readme", "changelog", "claude-skills"]
+}
